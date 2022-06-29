@@ -1,0 +1,27 @@
+body {
+    margin:0px
+}
+
+.baba {
+    width: 900px;
+    height: 700px;
+    background: red;
+}
+
+.ata {
+    width: 600px;
+    height: 700px;
+    background: green;
+}
+
+.ogul {
+    width: 300px;
+    height: 200px;
+    background: blue;
+}
+
+.qiz {
+    width: 300px;
+    height: 200px;
+    background: purple;
+}
