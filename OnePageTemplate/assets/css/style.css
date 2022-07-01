@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+align-items: center;
+}
+.navbar span{
+    margin-right: 10px;
+}
+.navbar ul li {
+    margin-right: 10px;
+    list-style-type: none;
+}
+body {background-color: blue;}
